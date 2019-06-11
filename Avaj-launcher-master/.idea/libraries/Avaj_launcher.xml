@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Avaj-launcher">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Avaj-launcher.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

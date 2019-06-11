@@ -1,0 +1,71 @@
+Tower: Registered Baloon B1 (0)
+Tower: Registered Baloon B2 (1)
+Tower: Registered JetPlane J1 (2)
+Tower: Registered Helicopter H1 (3)
+Tower: Registered Helicopter H2 (4)
+Tower: Registered Helicopter H3 (5)
+Tower: Registered Baloon B3 (6)
+Baloon#B1(0) : snow{2, 3, 5}
+Baloon#B2(1) : Sunny, yesterday my life was filled with rain~
+JetPlane#J1(2) : r_a_i_n{23, 45, 32}
+Helicopter#H1(3) : r a i n{659, 33, 20}
+Helicopter#H2(4) : s n o w{22, 33, 32}
+Helicopter#H3(5) : Sunny, you smiled at me and really eased the pain~
+Baloon#B3(6) : rain{102, 22, 29}
+Baloon#B1(0) : fog{2, 3, 2}
+Baloon#B2(1) : snow{3, 8, 55}
+JetPlane#J1(2) : r_a_i_n{23, 46, 32}
+Helicopter#H1(3) : f o g{660, 33, 20}
+Helicopter#H2(4) : The dark days are gone, and the bright days are here,~
+Helicopter#H3(5) : r a i n{113, 68, 100}
+Baloon#B3(6) : My Sunny one shines so sincere~
+Baloon#B1(0) : Sunny one so true, I love you~
+Baloon#B2(1) : fog{3, 8, 52}
+JetPlane#J1(2) : Sunny, yesterday my life was filled with rain~
+Helicopter#H1(3) : Sunny, you smiled at me and really eased the pain~
+Helicopter#H2(4) : r a i n{37, 33, 34}
+Helicopter#H3(5) : s n o w{113, 68, 88}
+Baloon#B3(6) : fog{104, 22, 30}
+Baloon#B1(0) : rain{4, 3, 1}
+Baloon#B2(1) : fog{3, 8, 49}
+JetPlane#J1(2) : s_n_o_w{23, 61, 34}
+Helicopter#H1(3) : s n o w{670, 33, 10}
+Helicopter#H2(4) : The dark days are gone, and the bright days are here,~
+Helicopter#H3(5) : f o g{114, 68, 88}
+Baloon#B3(6) : My Sunny one shines so sincere~
+Tower: Baloon B1 (0) landed
+JetPlane#J1(2) : f_o_g{23, 61, 27}
+Helicopter#H1(3) : Sunny one so true, I love you~
+Helicopter#H2(4) : r a i n{52, 33, 36}
+Helicopter#H3(5) : r a i n{119, 68, 88}
+Baloon#B3(6) : rain{106, 22, 29}
+Baloon#B2(1) : rain{3, 8, 44}
+JetPlane#J1(2) : f_o_g{23, 61, 20}
+Helicopter#H1(3) : Sunny, yesterday my life was filled with rain~
+Helicopter#H2(4) : Sunny, you smiled at me and really eased the pain~
+Helicopter#H3(5) : r a i n{124, 68, 88}
+Baloon#B3(6) : snow{106, 22, 14}
+Baloon#B2(1) : rain{3, 8, 39}
+JetPlane#J1(2) : s_n_o_w{23, 66, 20}
+Helicopter#H1(3) : The dark days are gone, and the bright days are here,~
+Helicopter#H2(4) : f o g{63, 33, 38}
+Helicopter#H3(5) : r a i n{129, 68, 88}
+Baloon#B3(6) : rain{106, 22, 9}
+Baloon#B2(1) : snow{3, 8, 24}
+JetPlane#J1(2) : r_a_i_n{23, 67, 20}
+Helicopter#H1(3) : My Sunny one shines so sincere~
+Helicopter#H2(4) : r a i n{68, 33, 38}
+Helicopter#H3(5) : f o g{130, 68, 88}
+Baloon#B3(6) : rain{106, 22, 4}
+Baloon#B2(1) : Sunny one so true, I love you~
+JetPlane#J1(2) : s_n_o_w{23, 72, 20}
+Helicopter#H1(3) : f o g{711, 33, 18}
+Helicopter#H2(4) : s n o w{68, 33, 26}
+Helicopter#H3(5) : Sunny, yesterday my life was filled with rain~
+Baloon#B3(6) : Sunny, you smiled at me and really eased the pain~
+Baloon#B2(1) : fog{5, 8, 25}
+JetPlane#J1(2) : f_o_g{23, 72, 13}
+Helicopter#H1(3) : The dark days are gone, and the bright days are here,~
+Helicopter#H2(4) : s n o w{68, 33, 14}
+Helicopter#H3(5) : My Sunny one shines so sincere~
+Baloon#B3(6) : rain{108, 22, 3}
